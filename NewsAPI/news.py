@@ -6,7 +6,7 @@ import csv
 
 
 # Init
-newsapi = NewsApiClient(api_key='XXXX')
+newsapi = NewsApiClient(api_key='Enter Key Here')
 
 
 # Delete CSV to overwrite
