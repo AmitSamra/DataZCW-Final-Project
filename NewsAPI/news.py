@@ -21,8 +21,8 @@ with open('news.csv','w',newline='') as f:
 
 
 # Obtain article count per day for date range 
-start = '2020-04-13'
-end = '2020-05-13'
+start = '2020-04-14'
+end = '2020-05-14'
 
 start2 = date(int(start[0:4]), int(start[5:7]), int(start[8:10]))
 end2 = date(int(end[0:4]), int(end[5:7]), int(end[8:10]))
